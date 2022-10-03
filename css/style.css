@@ -1,0 +1,77 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+
+    width: 50%;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: brown;
+     float: left;
+}
+.header1{
+    width: 40%;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color:orangered;
+     float: right;
+}
+.box{
+
+    width: 50%;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: brown;
+     float: left; 
+}
+.box1{
+    width: 40%;
+    height: 420px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 0px;
+    background-color:black;
+    float: right;
+    margin-bottom: 20px;
+}
+.forter{
+    width: 50%;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: brown;
+     float: left; 
+     margin-bottom: 20px;
+}
+.forter img{
+    position: absolute;
+    height: 200px;
+    width: 50%;
+
+}
+.header h1{
+padding-top: 20px; 
+padding-left: 20px;
+margin-left: 40px;
+}
+.header p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.header1 h1{
+    padding-top: 20px; 
+padding-left: 20px;
+margin-left: 100px;
+}
+.header1 p{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
